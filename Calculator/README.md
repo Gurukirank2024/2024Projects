@@ -30,7 +30,7 @@ Screenshot of a basic calculator...
         If you want to perform another calculation, use the all clear (AC/DEL) button to clear the screen and start fresh.
 
 
- 7.Live Link preview:https://gurukirank2024.github.io/Gurukirank2024/Calculator/
+ 7.Live Link preview:
      
 
 
