@@ -17,6 +17,9 @@ Just a Screenshot of it...
 3.Disclaimer: 
          The keyboard "enter" button wont works to submit the city which you have looking for, Instead with the help of mouse click on "Search" button.
 
+
+4.Preview Live Link:https://gurukirank2024.github.io/My_Projects/Weather_App/
+
          
 
  " Enjoy using our Weather App, and I hope it helps you stay informed about the weather wherever you go! "
