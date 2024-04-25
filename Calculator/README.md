@@ -20,10 +20,12 @@ Screenshot of a basic calculator...
  4.Enter the second number:
        Input the second number in the same way you entered the first number.
 
+ 
  5. Perform the calculation:
        Press the equals (=) button to perform the calculation. The calculator will display the result on its screen.
 
 
+ 
  6. Clear the calculator:
         If you want to perform another calculation, use the all clear (AC/DEL) button to clear the screen and start fresh.
 
