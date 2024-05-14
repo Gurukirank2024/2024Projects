@@ -18,7 +18,7 @@ Just a Screenshot of it...
          The keyboard "enter" button wont works to submit the city which you have looking for, Instead with the help of mouse click on "Search" button.
 
 
-4.Preview live link: https://gurukirank2024.github.io/My_Projects/Weather_App
+4.Preview live link: https://tinyurl.com/weathertestable
 
          
 
